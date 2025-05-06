@@ -115,6 +115,7 @@ __Others__
 - [Nice tools and Discussion on DL](https://github.com/lexfridman/mit-deep-learning): Tutorials, assignments, and competitions for MIT Deep Learning related courses. https://deeplearning.mit.edu
 - [Kipoi](https://github.com/kipoi/models): model Zoo for DL in genomics!
 - [interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability): start building interpretable models
+- [DNAnalyzer](https://github.com/VerisimilitudeX/DNAnalyzer): On-device ML genomic analysis
 
 ## Genomics
 
